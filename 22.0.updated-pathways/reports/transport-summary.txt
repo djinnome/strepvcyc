@@ -1,0 +1,1144 @@
+Accepted   CPLX18UT-1          D-ribose                 ATP       
+           predicted ABC transporter of D-ribose
+           ATP + D-ribose[extracellular space] + H2O  ->  ADP + D-ribose[cytosol] + phosphate
+Accepted   CPLX18UT-2          an oligosaccharide       ATP       
+           predicted ABC transporter of alpha-L-rhamnopyranose/an oligosaccharide
+           an oligosaccharide[extracellular space] + ATP + H2O  ->  an oligosaccharide[cytosol] + ADP + phosphate
+Accepted   CPLX18UT-2          alpha-L-rhamnopyranose   ATP       
+           predicted ABC transporter of alpha-L-rhamnopyranose/an oligosaccharide
+           ATP + alpha-L-rhamnopyranose[extracellular space] + H2O  ->  ADP + alpha-L-rhamnopyranose[cytosol] + phosphate
+Accepted   CPLX18UT-3          sulfate                  ATP       
+           predicted ABC transporter of sulfate
+           ATP + sulfate[extracellular space] + H2O  ->  ADP + sulfate[cytosol] + phosphate
+Accepted   CPLX18UT-4          putrescine               ATP       
+           predicted ATP-driven transporter of putrescine
+           ATP + putrescine[extracellular space] + H2O  ->  ADP + putrescine[cytosol] + phosphate
+Accepted   CPLX18UT-5          thiamine                 ATP       
+           predicted ABC transporter of thiamine
+           ATP + thiamine[extracellular space] + H2O  ->  ADP + thiamine[cytosol] + phosphate
+Accepted   CPLX18UT-6          phosphate                ATP       
+           predicted ABC transporter of phosphate
+           ATP + phosphate[extracellular space] + H2O  ->  ADP + 2 phosphate[cytosol] + H+
+Accepted   CPLX18UT-7          (2-aminoethyl)phosphonate ATP       
+           predicted ABC transporter of (2-aminoethyl)phosphonate
+           ATP + (2-aminoethyl)phosphonate[extracellular space] + H2O  ->  ADP + (2-aminoethyl)phosphonate[cytosol] + phosphate
+Accepted   CPLX18UT-8          D-cellobiose             ATP       
+           predicted ABC transporter of D-cellobiose
+           ATP + D-cellobiose[extracellular space] + H2O  ->  ADP + D-cellobiose[cytosol] + phosphate
+Accepted   CPLX18UT-9          a lipid A                ATP       
+           predicted ATP-driven efflux transporter of a lipid A
+           ATP + a lipid A[cytosol] + H2O  ->  ADP + a lipid A[extracellular space] + phosphate
+Accepted   CPLX18UT-10         a lipid A                ATP       
+           predicted ATP-driven efflux transporter of a lipid A
+           ATP + a lipid A[cytosol] + H2O  ->  ADP + a lipid A[extracellular space] + phosphate
+Accepted   CPLX18UT-11         a sugar                  ATP       
+           predicted ABC transporter of a sugar
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   CPLX18UT-12         a sugar                  ATP       
+           predicted ABC transporter of a sugar
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   CPLX18UT-13         a sugar                  ATP       
+           predicted ATP-driven transporter of a sugar
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   CPLX18UT-14         a sugar                  ATP       
+           predicted ABC transporter of a sugar
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   CPLX18UT-15         a siderophore            ATP       
+           predicted ABC transporter of Fe3+/a siderophore
+           ATP + a siderophore[extracellular space] + H2O  ->  ADP + a siderophore[cytosol] + phosphate
+Accepted   CPLX18UT-15         Fe3+                     ATP       
+           predicted ABC transporter of Fe3+/a siderophore
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   CPLX18UT-16         a siderophore            ATP       
+           predicted ABC transporter of Fe3+/a siderophore
+           ATP + a siderophore[extracellular space] + H2O  ->  ADP + a siderophore[cytosol] + phosphate
+Accepted   CPLX18UT-16         Fe3+                     ATP       
+           predicted ABC transporter of Fe3+/a siderophore
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   CPLX18UT-17         a siderophore            ATP       
+           predicted ABC transporter of Fe3+/a siderophore
+           ATP + a siderophore[extracellular space] + H2O  ->  ADP + a siderophore[cytosol] + phosphate
+Accepted   CPLX18UT-17         Fe3+                     ATP       
+           predicted ABC transporter of Fe3+/a siderophore
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   CPLX18UT-18         an oligopeptide          ATP       
+           predicted ATP-driven transporter of an oligopeptide
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   CPLX18UT-19         an oligopeptide          ATP       
+           predicted ABC transporter of an oligopeptide
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   CPLX18UT-20         an oligopeptide          ATP       
+           predicted ATP-driven transporter of an oligopeptide
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   CPLX18UT-21         an oligopeptide          ATP       
+           predicted ATP-driven transporter of an oligopeptide
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   CPLX18UT-22         an oligopeptide          ATP       
+           predicted ATP-driven transporter of an oligopeptide
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   CPLX18UT-23         L-methionine             ATP       
+           predicted ABC transporter of L-methionine
+           ATP + L-methionine[extracellular space] + H2O  ->  ADP + L-methionine[cytosol] + phosphate
+Accepted   CPLX18UT-24         a hydroxamate            ATP       
+           predicted ABC transporter of Fe3+/a hydroxamate
+           ATP + a hydroxamate[extracellular space] + H2O  ->  ADP + a hydroxamate[cytosol] + phosphate
+Accepted   CPLX18UT-24         Fe3+                     ATP       
+           predicted ABC transporter of Fe3+/a hydroxamate
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   CPLX18UT-25         a maltodextrin           ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + a maltodextrin[extracellular space] + H2O  ->  ADP + a maltodextrin[cytosol] + phosphate
+Accepted   CPLX18UT-25         maltose                  ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + maltose[extracellular space] + H2O  ->  ADP + maltose[cytosol] + phosphate
+Accepted   CPLX18UT-26         a maltodextrin           ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + a maltodextrin[extracellular space] + H2O  ->  ADP + a maltodextrin[cytosol] + phosphate
+Accepted   CPLX18UT-26         maltose                  ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + maltose[extracellular space] + H2O  ->  ADP + maltose[cytosol] + phosphate
+Accepted   CPLX18UT-27         a maltodextrin           ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + a maltodextrin[extracellular space] + H2O  ->  ADP + a maltodextrin[cytosol] + phosphate
+Accepted   CPLX18UT-27         maltose                  ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + maltose[extracellular space] + H2O  ->  ADP + maltose[cytosol] + phosphate
+Accepted   CPLX18UT-28         a maltodextrin           ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + a maltodextrin[extracellular space] + H2O  ->  ADP + a maltodextrin[cytosol] + phosphate
+Accepted   CPLX18UT-28         maltose                  ATP       
+           predicted ABC transporter of maltose/a maltodextrin
+           ATP + maltose[extracellular space] + H2O  ->  ADP + maltose[cytosol] + phosphate
+Accepted   CPLX18UT-29         a branched-chain amino acid ATP       
+           predicted ATP-driven transporter of a branched-chain amino acid
+           ATP + a branched-chain amino acid[extracellular space] + H2O  ->  ADP + a branched-chain amino acid[cytosol] + phosphate
+Accepted   CPLX18UT-30         a branched-chain amino acid ATP       
+           predicted ATP-driven transporter of a branched-chain amino acid
+           ATP + a branched-chain amino acid[extracellular space] + H2O  ->  ADP + a branched-chain amino acid[cytosol] + phosphate
+Accepted   CPLX18UT-31         a branched-chain amino acid ATP       
+           predicted ATP-driven transporter of a branched-chain amino acid
+           ATP + a branched-chain amino acid[extracellular space] + H2O  ->  ADP + a branched-chain amino acid[cytosol] + phosphate
+Accepted   CPLX18UT-32         Zn2+                     ATP       
+           predicted ABC transporter of Zn2+
+           ATP + Zn2+[extracellular space] + H2O  ->  ADP + Zn2+[cytosol] + phosphate
+Accepted   CPLX18UT-33         glycine betaine          ATP       
+           predicted ABC transporter of glycine betaine
+           ATP + glycine betaine[extracellular space] + H2O  ->  ADP + glycine betaine[cytosol] + phosphate
+Accepted   CPLX18UT-34         glycine betaine          ATP       
+           predicted ABC transporter of glycine betaine
+           ATP + glycine betaine[extracellular space] + H2O  ->  ADP + glycine betaine[cytosol] + phosphate
+Accepted   CPLX18UT-35         glycine betaine          ATP       
+           predicted ABC transporter of glycine betaine
+           ATP + glycine betaine[extracellular space] + H2O  ->  ADP + glycine betaine[cytosol] + phosphate
+Accepted   CPLX18UT-36         glycine betaine          ATP       
+           predicted ABC transporter of glycine betaine
+           ATP + glycine betaine[extracellular space] + H2O  ->  ADP + glycine betaine[cytosol] + phosphate
+Accepted   G18UT-22549-MONOMER    a siderophore            ATP       
+           putative fe3+-siderophore abc transporter,atpase component
+           ATP + a siderophore[extracellular space] + H2O  ->  ADP + a siderophore[cytosol] + phosphate
+Accepted   G18UT-22549-MONOMER    Fe3+                     ATP       
+           putative fe3+-siderophore abc transporter,atpase component
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   G18UT-22539-MONOMER    a macrolide              ATP       
+           macrolide export atp-binding or permease protein macb
+           ATP + a macrolide[cytosol] + H2O  ->  ADP + a macrolide[extracellular space] + phosphate
+Accepted   G18UT-22533-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter sugar binding protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-22532-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter membrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-22324-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppc
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-22323-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppb
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-22306-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transport integral membrane protein
+           an oligopeptide[extracellular space]  ->  an oligopeptide[cytosol]
+Accepted   G18UT-22277-MONOMER    L-arginine               SECONDARY 
+           arginine or ornithine antiporter arcd
+           ornithine[cytosol] + L-arginine[extracellular space]  ->  ornithine[extracellular space] + L-arginine[cytosol]
+Accepted   G18UT-22270-MONOMER    a dipeptide              ATP       
+           dipeptide transport atp-binding protein dppd
+           ATP + a dipeptide[extracellular space] + H2O  ->  ADP + a dipeptide[cytosol] + phosphate
+Accepted   G18UT-22268-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppc
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-22267-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppb
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-22254-MONOMER    a sugar                  ATP       
+           atp-binding protein of sugar abc transporter
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   G18UT-22252-MONOMER    choline                  UNKNOWN   
+           high-affinity choline uptake protein bett
+           choline[extracellular space]  ->  choline[cytosol]
+Accepted   G18UT-22226-MONOMER    Fe3+                     ATP       
+           possible abc fe(3+) transporter binding protein
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   G18UT-22215-MONOMER    Co2+                     UNKNOWN   
+           predicted cobalt transporter cbta
+           Co2+[extracellular space]  <-->  Co2+[cytosol]
+Accepted   G18UT-22195-MONOMER    a sugar                  SECONDARY 
+           multiple sugar transport system permease protein
+           a sugar[extracellular space] + H+[extracellular space]  ->  a sugar[cytosol] + H+[cytosol]
+Accepted   G18UT-22194-MONOMER    a sugar                  ATP       
+           abc transporter sugar permease
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   G18UT-22152-MONOMER    a dipeptide              ATP       
+           dipeptide transport atp-binding protein dppd
+           ATP + a dipeptide[extracellular space] + H2O  ->  ADP + a dipeptide[cytosol] + phosphate
+Accepted   G18UT-22151-MONOMER    an oligopeptide          SECONDARY 
+           oligopeptide transport system permease protein oppc
+           an oligopeptide[extracellular space] + H+[extracellular space]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-22150-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppb
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-22149-MONOMER    Ni2+                     ATP       
+           nickel abc transporter, periplasmic nickel-binding protein nika2
+           ATP + Ni2+[extracellular space] + H2O  ->  ADP + Ni2+[cytosol] + phosphate
+Accepted   G18UT-22123-MONOMER    a glutamate              SECONDARY 
+           glutamate permease
+           a glutamate[extracellular space] + H+[extracellular space]  ->  a glutamate[cytosol] + H+[cytosol]
+Accepted   G18UT-22122-MONOMER    a glutamate              UNKNOWN   
+           putative glutamate transport protein
+           a glutamate[extracellular space]  ->  a glutamate[cytosol]
+Accepted   G18UT-22121-MONOMER    an amino acid            ATP       
+           amino acid abc transporter, amino acid-binding protein
+           ATP + an amino acid[extracellular space] + H2O  ->  ADP + an amino acid[cytosol] + phosphate
+Accepted   G18UT-22120-MONOMER    a glutamate              ATP       
+           putative glutamate uptake system atp-binding protein
+           ATP + a glutamate[extracellular space] + H2O  ->  ADP + a glutamate[cytosol] + phosphate
+Accepted   G18UT-22072-MONOMER    a lipid A                ATP       
+           lipid a export atp-binding or permease protein msba
+           ATP + a lipid A[cytosol] + H2O  ->  ADP + a lipid A[extracellular space] + phosphate
+Accepted   G18UT-22068-MONOMER    a sugar                  SECONDARY 
+           sugar transport system permease protein
+           a sugar[extracellular space] + H+[extracellular space]  ->  a sugar[cytosol] + H+[cytosol]
+Accepted   G18UT-22067-MONOMER    a sugar                  ATP       
+           sugar abc transporter, permease protein
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   G18UT-22066-MONOMER    a sugar                  UNKNOWN   
+           probable sugar transport system sugar-binding lipoprotein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-22054-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-22054-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-22054-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-22054-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-21949-MONOMER    an amino acid            SECONDARY 
+           amino acid permease, purative
+           an amino acid[extracellular space] + H+[extracellular space]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-21931-MONOMER    hydrogen carbonate       ATP       
+           abc-type nitrate or sulfonate or bicarbonate transport system, permease component
+           ATP + hydrogen carbonate[extracellular space] + H2O  ->  ADP + hydrogen carbonate[cytosol] + phosphate
+Accepted   G18UT-21931-MONOMER    a sulfonate              ATP       
+           abc-type nitrate or sulfonate or bicarbonate transport system, permease component
+           ATP + a sulfonate[extracellular space] + H2O  ->  ADP + a sulfonate[cytosol] + phosphate
+Accepted   G18UT-21931-MONOMER    nitrate                  ATP       
+           abc-type nitrate or sulfonate or bicarbonate transport system, permease component
+           ATP + nitrate[extracellular space] + H2O  ->  ADP + nitrate[cytosol] + phosphate
+Accepted   G18UT-21929-MONOMER    a sulfonate              ATP       
+           possible abc sulfonate transporter, substrate binding component
+           ATP + a sulfonate[extracellular space] + H2O  ->  ADP + a sulfonate[cytosol] + phosphate
+Accepted   G18UT-21893-MONOMER    L-arabinose              ATP       
+           l-arabinose transport atp-binding protein arag
+           ATP + L-arabinose[extracellular space] + H2O  ->  ADP + L-arabinose[cytosol] + phosphate
+Accepted   G18UT-21892-MONOMER    a sugar                  SECONDARY 
+           putative sugar transport permease
+           a sugar[extracellular space] + H+[extracellular space]  ->  a sugar[cytosol] + H+[cytosol]
+Accepted   G18UT-21760-MONOMER    D-cellobiose             SECONDARY 
+           cellobiose transport permease
+           D-cellobiose[extracellular space] + H+[extracellular space]  ->  D-cellobiose[cytosol] + H+[cytosol]
+Accepted   G18UT-21759-MONOMER    a sugar                  UNKNOWN   
+           sugar transport integral membrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-21610-MONOMER    an O-antigen             SECONDARY 
+           o-antigen export system, permease protein
+           an O-antigen[cytosol] + H+[cytosol]  ->  an O-antigen[extracellular space] + H+[extracellular space]
+Accepted   G18UT-21524-MONOMER    an acid                  SECONDARY 
+           sodium-bile acid symporter
+           an acid[extracellular space] + H+[extracellular space]  ->  an acid[cytosol] + H+[cytosol]
+Accepted   G18UT-21509-MONOMER    L-arginine               SECONDARY 
+           arginine or ornithine antiporter arcd
+           ornithine[cytosol] + L-arginine[extracellular space]  ->  ornithine[extracellular space] + L-arginine[cytosol]
+Accepted   G18UT-21462-MONOMER    a branched-chain amino acid SECONDARY 
+           branched-chain amino acid transport system permease protein livm
+           a branched-chain amino acid[extracellular space] + H+[extracellular space]  ->  a branched-chain amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-21461-MONOMER    a branched-chain amino acid SECONDARY 
+           high-affinity branched-chain amino acid transport system permease protein livh
+           a branched-chain amino acid[extracellular space] + H+[extracellular space]  ->  a branched-chain amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-21456-MONOMER    glycine betaine          UNKNOWN   
+           glycine betaine transporter opud
+           glycine betaine[extracellular space]  <-->  glycine betaine[cytosol]
+Accepted   G18UT-21442-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-21442-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-21442-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-21442-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-21316-MONOMER    a glutamate              SECONDARY 
+           glutamate permease
+           a glutamate[extracellular space] + H+[extracellular space]  ->  a glutamate[cytosol] + H+[cytosol]
+Accepted   G18UT-21315-MONOMER    an amino acid            ATP       
+           amino acid abc transporter, permease protein
+           ATP + an amino acid[extracellular space] + H2O  ->  ADP + an amino acid[cytosol] + phosphate
+Accepted   G18UT-21313-MONOMER    a glutamate              ATP       
+           putative glutamate uptake system atp-binding protein
+           ATP + a glutamate[extracellular space] + H2O  ->  ADP + a glutamate[cytosol] + phosphate
+Accepted   G18UT-21289-MONOMER    an inositol              ATP       
+           inositol transport system atp-binding protein
+           ATP + an inositol[extracellular space] + H2O  ->  ADP + an inositol[cytosol] + phosphate
+Accepted   G18UT-21288-MONOMER    an inositol              SECONDARY 
+           inositol transport system permease protein
+           an inositol[extracellular space] + H+[extracellular space]  ->  an inositol[cytosol] + H+[cytosol]
+Accepted   G18UT-21287-MONOMER    an inositol              UNKNOWN   
+           inositol transport system sugar-binding protein
+           an inositol[extracellular space]  ->  an inositol[cytosol]
+Accepted   G18UT-21273-MONOMER    L-methionine             ATP       
+           methionine abc transporter atp-binding protein
+           ATP + L-methionine[extracellular space] + H2O  ->  ADP + L-methionine[cytosol] + phosphate
+Accepted   G18UT-21238-MONOMER    Co2+                     UNKNOWN   
+           magnesium and cobalt transport protein cora
+           Co2+[extracellular space]  <-->  Co2+[cytosol]
+Accepted   G18UT-21238-MONOMER    Mg2+                     UNKNOWN   
+           magnesium and cobalt transport protein cora
+           Mg2+[extracellular space]  <-->  Mg2+[cytosol]
+Accepted   G18UT-21213-MONOMER    Mo2+                     SECONDARY 
+           molybdenum transport system permease protein modb
+           Mo2+[extracellular space] + H+[extracellular space]  ->  Mo2+[cytosol] + H+[cytosol]
+Accepted   G18UT-21212-MONOMER    Mo2+                     ATP       
+           molybdenum abc transporter, periplasmic molybdenum-binding protein moda
+           ATP + Mo2+[extracellular space] + H2O  ->  ADP + Mo2+[cytosol] + phosphate
+Accepted   G18UT-21120-MONOMER    L-ascorbate              SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           L-ascorbate[extracellular space] + H+[extracellular space]  ->  L-ascorbate[cytosol] + H+[cytosol]
+Accepted   G18UT-21120-MONOMER    thiamine                 SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-21120-MONOMER    uracil                   SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-21070-MONOMER    N-acetyl-alpha-D-glucosamine ATP       
+           n-acetyl-d-glucosamine abc transport system,permease protein
+           ATP + N-acetyl-alpha-D-glucosamine[extracellular space] + H2O  ->  ADP + N-acetyl-alpha-D-glucosamine[cytosol] + phosphate
+Accepted   G18UT-20987-MONOMER    an amino acid            UNKNOWN   
+           putative cationic amino acid transporter
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G18UT-20980-MONOMER    N-acetyl-alpha-D-glucosamine ATP       
+           n-acetyl-d-glucosamine abc transport system,permease protein
+           ATP + N-acetyl-alpha-D-glucosamine[extracellular space] + H2O  ->  ADP + N-acetyl-alpha-D-glucosamine[cytosol] + phosphate
+Accepted   G18UT-20963-MONOMER    an amino acid            SECONDARY 
+           putative amino acid permease
+           an amino acid[extracellular space] + H+[extracellular space]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-20921-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter, apc family
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G18UT-20726-MONOMER    a cobalamin              UNKNOWN   
+           transmembrane component cbrv of energizing module of predicted cobalamin ecf transporter
+           a cobalamin[extracellular space]  ->  a cobalamin[cytosol]
+Accepted   G18UT-20725-MONOMER    a cobalamin              ATP       
+           duplicated atpase component cbru of energizing module of predicted cobalamin ecf transporter
+           a cobalamin[extracellular space] + ATP + H2O  ->  a cobalamin[cytosol] + ADP + phosphate
+Accepted   G18UT-20724-MONOMER    a cobalamin              UNKNOWN   
+           substrate-specific component cbrt of predicted cobalamin ecf transporter
+           a cobalamin[extracellular space]  ->  a cobalamin[cytosol]
+Accepted   G18UT-20710-MONOMER    L-histidine              CHANNEL   
+           osmosensitive k+ channel histidine kinase kdpd
+           L-histidine[extracellular space]  ->  L-histidine[cytosol]
+Accepted   G18UT-20597-MONOMER    a glutamate              ATP       
+           putative glutamate uptake system atp-binding protein
+           ATP + a glutamate[extracellular space] + H2O  ->  ADP + a glutamate[cytosol] + phosphate
+Accepted   G18UT-20595-MONOMER    a glutamate              UNKNOWN   
+           putative glutamate transport protein
+           a glutamate[extracellular space]  ->  a glutamate[cytosol]
+Accepted   G18UT-20594-MONOMER    a glutamate              SECONDARY 
+           glutamate permease
+           a glutamate[extracellular space] + H+[extracellular space]  ->  a glutamate[cytosol] + H+[cytosol]
+Accepted   G18UT-20495-MONOMER    putrescine               SECONDARY 
+           putrescine transport system permease protein poti
+           putrescine[extracellular space] + H+[extracellular space]  ->  putrescine[cytosol] + H+[cytosol]
+Accepted   G18UT-20494-MONOMER    putrescine               SECONDARY 
+           putrescine transport system permease protein poth
+           putrescine[extracellular space] + H+[extracellular space]  ->  putrescine[cytosol] + H+[cytosol]
+Accepted   G18UT-20480-MONOMER    putrescine               ATP       
+           putrescine abc transporter putrescine-binding protein potf
+           ATP + putrescine[extracellular space] + H2O  ->  ADP + putrescine[cytosol] + phosphate
+Accepted   G18UT-20436-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-20436-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-20436-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-20436-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-20434-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-20363-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-20363-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-20363-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-20363-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-20308-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transport system integral membrane protein
+           an oligopeptide[extracellular space]  ->  an oligopeptide[cytosol]
+Accepted   G18UT-20306-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppc
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-20242-MONOMER    a dicarboxylate          SECONDARY 
+           putative sodium:dicarboxylate symporter
+           Na+[extracellular space] + a dicarboxylate[extracellular space]  ->  Na+[cytosol] + a dicarboxylate[cytosol]
+Accepted   G18UT-20104-MONOMER    an amino acid            ATP       
+           abc-type amino acid transport system, permease component
+           ATP + an amino acid[extracellular space] + H2O  ->  ADP + an amino acid[cytosol] + phosphate
+Accepted   G18UT-20054-MONOMER    a maltodextrin           ATP       
+           maltose or maltodextrin abc transporter, permease protein malg
+           ATP + a maltodextrin[extracellular space] + H2O  ->  ADP + a maltodextrin[cytosol] + phosphate
+Accepted   G18UT-20054-MONOMER    maltose                  ATP       
+           maltose or maltodextrin abc transporter, permease protein malg
+           ATP + maltose[extracellular space] + H2O  ->  ADP + maltose[cytosol] + phosphate
+Accepted   G18UT-20053-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter integral membrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-20052-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter sugar binding protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-20034-MONOMER    Na+                      SECONDARY 
+           na+ or solute symporter
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G18UT-19977-MONOMER    an oligopeptide          ATP       
+           oligopeptide transport atp-binding protein oppf
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   G18UT-19954-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporter
+           Mg2+[extracellular space]  <-->  Mg2+[cytosol]
+Accepted   G18UT-19920-MONOMER    an oligopeptide          SECONDARY 
+           oligopeptide transport system permease protein oppc
+           an oligopeptide[extracellular space] + H+[extracellular space]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-19919-MONOMER    an oligopeptide          SECONDARY 
+           oligopeptide transport system permease protein oppb
+           an oligopeptide[extracellular space] + H+[extracellular space]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-19914-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppc
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-19913-MONOMER    a dipeptide              SECONDARY 
+           dipeptide transport system permease protein dppb
+           a dipeptide[extracellular space] + H+[extracellular space]  ->  a dipeptide[cytosol] + H+[cytosol]
+Accepted   G18UT-19874-MONOMER    putrescine               UNKNOWN   
+           putrescine importer
+           putrescine[extracellular space]  ->  putrescine[cytosol]
+Accepted   G18UT-19824-MONOMER    D-gluconate              SECONDARY 
+           low-affinity gluconate or h+ symporter gntu
+           D-gluconate[extracellular space] + H+[extracellular space]  ->  D-gluconate[cytosol] + H+[cytosol]
+Accepted   G18UT-19697-MONOMER    L-lysine                 SECONDARY 
+           l-lysine permease
+           L-lysine[extracellular space] + H+[extracellular space]  ->  L-lysine[cytosol] + H+[cytosol]
+Accepted   G18UT-19598-MONOMER    a sugar                  ATP       
+           abc-type sugar transport systems, permease components
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   G18UT-19471-MONOMER    an amino acid            UNKNOWN   
+           putative amino acid transporter
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G18UT-19434-MONOMER    a tripeptide             UNKNOWN   
+           di-or tripeptide transporter
+           a tripeptide[extracellular space]  ->  a tripeptide[cytosol]
+Accepted   G18UT-19298-MONOMER    L-ascorbate              SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           L-ascorbate[extracellular space] + H+[extracellular space]  ->  L-ascorbate[cytosol] + H+[cytosol]
+Accepted   G18UT-19298-MONOMER    thiamine                 SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-19298-MONOMER    uracil                   SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-19250-MONOMER    L-threonine              UNKNOWN   
+           putative threonine efflux protein
+           L-threonine[cytosol]  ->  L-threonine[extracellular space]
+Accepted   G18UT-19120-MONOMER    sn-glycerol 3-phosphate  ATP       
+           sn-glycerol-3-phosphate transport atp-binding protein ugpc
+           ATP + sn-glycerol 3-phosphate[extracellular space] + H2O  ->  ADP + sn-glycerol 3-phosphate[cytosol] + phosphate
+Accepted   G18UT-19059-MONOMER    L-histidine              CHANNEL   
+           osmosensitive k+ channel histidine kinase kdpd
+           L-histidine[extracellular space]  ->  L-histidine[cytosol]
+Accepted   G18UT-19045-MONOMER    phosphate                SECONDARY 
+           phosphate transport system permease protein pstc
+           phosphate[extracellular space] + H+[extracellular space]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G18UT-19044-MONOMER    phosphate                SECONDARY 
+           phosphate transport system permease protein psta
+           phosphate[extracellular space] + H+[extracellular space]  ->  phosphate[cytosol] + H+[cytosol]
+Accepted   G18UT-19042-MONOMER    phosphate                UNKNOWN   
+           probable low-affinity inorganic phosphate transporter
+           phosphate[extracellular space]  <-  phosphate[cytosol]
+Accepted   G18UT-18537-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-18433-MONOMER    dTMP                     SECONDARY 
+           permeases of the major facilitator superfamily or thymidylate kinase
+           dTMP[extracellular space] + H+[extracellular space]  ->  dTMP[cytosol] + H+[cytosol]
+Accepted   G18UT-18389-MONOMER    chloride                 CHANNEL   
+           chloride channel protein
+           chloride[extracellular space]  <-->  chloride[cytosol]
+Accepted   G18UT-18232-MONOMER    a glutamate              SECONDARY 
+           proton or glutamate symport protein @ sodium or glutamate symport protein
+           a glutamate[extracellular space] + H+[extracellular space]  ->  a glutamate[cytosol] + H+[cytosol]
+Accepted   G18UT-18161-MONOMER    nitrite                  UNKNOWN   
+           nitrate or nitrite transporter
+           nitrite[extracellular space]  <-  nitrite[cytosol]
+Accepted   G18UT-18161-MONOMER    nitrate                  UNKNOWN   
+           nitrate or nitrite transporter
+           nitrate[extracellular space]  ->  nitrate[cytosol]
+Accepted   G18UT-18113-MONOMER    Ni2+                     UNKNOWN   
+           transmembrane component nikq of energizing module of nickel ecf transporter
+           Ni2+[extracellular space]  ->  Ni2+[cytosol]
+Accepted   G18UT-18112-MONOMER    Ni2+                     ATP       
+           atpase component niko of energizing module of nickel ecf transporter
+           ATP + Ni2+[extracellular space] + H2O  ->  ADP + Ni2+[cytosol] + phosphate
+Accepted   G18UT-18108-MONOMER    L-lysine                 SECONDARY 
+           l-lysine permease
+           L-lysine[extracellular space] + H+[extracellular space]  ->  L-lysine[cytosol] + H+[cytosol]
+Accepted   G18UT-17925-MONOMER    L-leucine                UNKNOWN   
+           high-affinity leucine-specific transport system,periplasmic binding protein livk
+           L-leucine[extracellular space]  ->  L-leucine[cytosol]
+Accepted   G18UT-17915-MONOMER    a tripeptide             UNKNOWN   
+           di-or tripeptide transporter
+           a tripeptide[extracellular space]  ->  a tripeptide[cytosol]
+Accepted   G18UT-17849-MONOMER    an O-antigen             SECONDARY 
+           o-antigen export system, permease protein
+           an O-antigen[cytosol] + H+[cytosol]  ->  an O-antigen[extracellular space] + H+[extracellular space]
+Accepted   G18UT-17832-MONOMER    nitrite                  UNKNOWN   
+           nitrate or nitrite transporter
+           nitrite[extracellular space]  <-  nitrite[cytosol]
+Accepted   G18UT-17832-MONOMER    nitrate                  UNKNOWN   
+           nitrate or nitrite transporter
+           nitrate[extracellular space]  ->  nitrate[cytosol]
+Accepted   G18UT-17824-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter sugar-binding protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-17823-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter membrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-17822-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transporter membrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-17780-MONOMER    glycine                  UNKNOWN   
+           d-serine or d-alanine or glycine transporter
+           glycine[extracellular space]  <-->  glycine[cytosol]
+Accepted   G18UT-17780-MONOMER    D-alanine                UNKNOWN   
+           d-serine or d-alanine or glycine transporter
+           D-alanine[extracellular space]  ->  D-alanine[cytosol]
+Accepted   G18UT-17780-MONOMER    D-serine                 UNKNOWN   
+           d-serine or d-alanine or glycine transporter
+           D-serine[extracellular space]  ->  D-serine[cytosol]
+Accepted   G18UT-17769-MONOMER    N-acetyl-alpha-D-glucosamine PTS       
+           pts system, n-acetylglucosamine-specific iib component or pts system, n-acetylglucosamine-specific iic component
+           a [PTS enzyme I]-Npi-phospho-L-histidine + N-acetyl-alpha-D-glucosamine[extracellular space]  ->  N-acetyl-alpha-D-glucosamine 6-phosphate[cytosol] + a [PTS enzyme I]-L-histidine
+Accepted   G18UT-17760-MONOMER    glycine betaine          UNKNOWN   
+           l-proline or glycine betaine transporter prop
+           glycine betaine[extracellular space]  <-->  glycine betaine[cytosol]
+Accepted   G18UT-17745-MONOMER    Na+                      SECONDARY 
+           na+ or solute symporter
+           Na+[extracellular space] + H+[extracellular space]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G18UT-17552-MONOMER    an amino acid            ATP       
+           amino acid abc transporter solute-binding protein
+           ATP + an amino acid[extracellular space] + H2O  ->  ADP + an amino acid[cytosol] + phosphate
+Accepted   G18UT-17548-MONOMER    a sugar                  UNKNOWN   
+           putative sugar transport inner membrane protein
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-17547-MONOMER    a sugar                  SECONDARY 
+           putative sugar transport system permease protein
+           a sugar[extracellular space] + H+[extracellular space]  ->  a sugar[cytosol] + H+[cytosol]
+Accepted   G18UT-17546-MONOMER    N-acetyl-alpha-D-glucosamine ATP       
+           n-acetyl-d-glucosamine abc transport system,sugar-binding protein
+           ATP + N-acetyl-alpha-D-glucosamine[extracellular space] + H2O  ->  ADP + N-acetyl-alpha-D-glucosamine[cytosol] + phosphate
+Accepted   G18UT-17518-MONOMER    an amino acid            SECONDARY 
+           putative amino acid permease
+           an amino acid[extracellular space] + H+[extracellular space]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-17517-MONOMER    an amino acid            SECONDARY 
+           putative amino acid permease
+           an amino acid[extracellular space] + H+[extracellular space]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-17516-MONOMER    biotin                   UNKNOWN   
+           substrate-specific component bioy of biotin ecf transporter
+           biotin[extracellular space]  ->  biotin[cytosol]
+Accepted   G18UT-17515-MONOMER    4-aminobutanoate         SECONDARY 
+           putative gamma-aminobutyrate permease
+           4-aminobutanoate[extracellular space] + H+[extracellular space]  ->  4-aminobutanoate[cytosol] + H+[cytosol]
+Accepted   G18UT-17421-MONOMER    Co2+                     UNKNOWN   
+           magnesium and cobalt efflux protein corc
+           Co2+[cytosol]  <-->  Co2+[extracellular space]
+Accepted   G18UT-17421-MONOMER    Mg2+                     UNKNOWN   
+           magnesium and cobalt efflux protein corc
+           Mg2+[cytosol]  <-->  Mg2+[extracellular space]
+Accepted   G18UT-17327-MONOMER    nitrite                  UNKNOWN   
+           nitrate or nitrite transporter
+           nitrite[extracellular space]  <-  nitrite[cytosol]
+Accepted   G18UT-17327-MONOMER    nitrate                  UNKNOWN   
+           nitrate or nitrite transporter
+           nitrate[extracellular space]  ->  nitrate[cytosol]
+Accepted   G18UT-17141-MONOMER    a cobalamin              UNKNOWN   
+           substrate-specific component cbrt of predicted cobalamin ecf transporter
+           a cobalamin[extracellular space]  ->  a cobalamin[cytosol]
+Accepted   G18UT-17140-MONOMER    a cobalamin              ATP       
+           duplicated atpase component cbru of energizing module of predicted cobalamin ecf transporter
+           a cobalamin[extracellular space] + ATP + H2O  ->  a cobalamin[cytosol] + ADP + phosphate
+Accepted   G18UT-17139-MONOMER    a cobalamin              UNKNOWN   
+           transmembrane component cbrv of energizing module of predicted cobalamin ecf transporter
+           a cobalamin[extracellular space]  ->  a cobalamin[cytosol]
+Accepted   G18UT-17054-MONOMER    Fe2+                     SECONDARY 
+           ferrous iron transport permease efeu
+           Fe2+[extracellular space] + H+[extracellular space]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G18UT-17051-MONOMER    heme                     ATP       
+           heme abc transporter, atpase component hmuv
+           ATP + heme[extracellular space] + H2O  ->  ADP + heme[cytosol] + phosphate
+Accepted   G18UT-17032-MONOMER    a glutamate              SECONDARY 
+           probable glutamate or gamma-aminobutyrate antiporter
+           4-aminobutanoate[cytosol] + a glutamate[extracellular space]  ->  4-aminobutanoate[extracellular space] + a glutamate[cytosol]
+Accepted   G18UT-16995-MONOMER    an amino acid            UNKNOWN   
+           amino acid permease-associated region
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G18UT-16974-MONOMER    Fe3+                     UNKNOWN   
+           uncharacterized iron-regulated membrane protein; iron-uptake factor piub
+           Fe3+[extracellular space]  ->  Fe3+[cytosol]
+Accepted   G18UT-16732-MONOMER    a branched-chain amino acid SECONDARY 
+           branched-chain amino acid transport system permease protein livm
+           a branched-chain amino acid[extracellular space] + H+[extracellular space]  ->  a branched-chain amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-16731-MONOMER    a branched-chain amino acid SECONDARY 
+           high-affinity branched-chain amino acid transport system permease protein livh
+           a branched-chain amino acid[extracellular space] + H+[extracellular space]  ->  a branched-chain amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-16686-MONOMER    a sugar                  ATP       
+           sugar abc transporter sugar-binding protein
+           ATP + a sugar[extracellular space] + H2O  ->  ADP + a sugar[cytosol] + phosphate
+Accepted   G18UT-16587-MONOMER    phosphate                UNKNOWN   
+           probable low-affinity inorganic phosphate transporter
+           phosphate[extracellular space]  <-  phosphate[cytosol]
+Accepted   G18UT-16516-MONOMER    a siderophore            ATP       
+           abc-type fe3+-siderophore transport system,atpase component
+           ATP + a siderophore[extracellular space] + H2O  ->  ADP + a siderophore[cytosol] + phosphate
+Accepted   G18UT-16516-MONOMER    Fe3+                     ATP       
+           abc-type fe3+-siderophore transport system,atpase component
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   G18UT-16507-MONOMER    an amino acid            SECONDARY 
+           amino acid permease family protein
+           an amino acid[extracellular space] + H+[extracellular space]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-16494-MONOMER    1-(beta-D ribofuranosyl)nicotinamide UNKNOWN   
+           ribosyl nicotinamide transporter, pnuc
+           1-(beta-D ribofuranosyl)nicotinamide[extracellular space]  ->  1-(beta-D ribofuranosyl)nicotinamide[cytosol]
+Accepted   G18UT-16476-MONOMER    a branched-chain amino acid ATP       
+           branched-chain amino acid transport atp-binding protein livf
+           ATP + a branched-chain amino acid[extracellular space] + H2O  ->  ADP + a branched-chain amino acid[cytosol] + phosphate
+Accepted   G18UT-16459-MONOMER    a polar amino acid       ATP       
+           abc-type polar amino acid transport system,atpase component
+           a polar amino acid[extracellular space] + ATP + H2O  ->  a polar amino acid[cytosol] + ADP + phosphate
+Accepted   G18UT-16444-MONOMER    a tricarboxylate         UNKNOWN   
+           tricarboxylate transport protein tctc
+           a tricarboxylate[extracellular space]  ->  a tricarboxylate[cytosol]
+Accepted   G18UT-16443-MONOMER    citrate                  UNKNOWN   
+           tctb citrate transporter
+           citrate[extracellular space]  ->  citrate[cytosol]
+Accepted   G18UT-16442-MONOMER    a tricarboxylate         UNKNOWN   
+           tricarboxylate transport membrane protein tcta
+           a tricarboxylate[extracellular space]  ->  a tricarboxylate[cytosol]
+Accepted   G18UT-16412-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-16412-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-16412-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-16412-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-16372-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transporter family protein
+           D-gluconate[extracellular space]  ->  D-gluconate[cytosol]
+Accepted   G18UT-16369-MONOMER    L-asparagine             SECONDARY 
+           l-asparagine permease
+           L-asparagine[extracellular space] + H+[extracellular space]  ->  L-asparagine[cytosol] + H+[cytosol]
+Accepted   G18UT-16354-MONOMER    Co2+                     UNKNOWN   
+           magnesium and cobalt transport protein cora
+           Co2+[extracellular space]  <-->  Co2+[cytosol]
+Accepted   G18UT-16354-MONOMER    Mg2+                     UNKNOWN   
+           magnesium and cobalt transport protein cora
+           Mg2+[extracellular space]  <-->  Mg2+[cytosol]
+Accepted   G18UT-16344-MONOMER    glycerol                 SECONDARY 
+           glycerol uptake facilitator protein
+           glycerol[extracellular space] + H+[extracellular space]  ->  glycerol[cytosol] + H+[cytosol]
+Accepted   G18UT-16339-MONOMER    an oligopeptide          ATP       
+           oligopeptide abc transporter, periplasmic oligopeptide-binding protein oppa
+           ATP + an oligopeptide[extracellular space] + H2O  ->  ADP + an oligopeptide[cytosol] + phosphate
+Accepted   G18UT-16306-MONOMER    a hydroxamate            ATP       
+           abc-type fe3+-hydroxamate transport system,periplasmic component
+           ATP + a hydroxamate[extracellular space] + H2O  ->  ADP + a hydroxamate[cytosol] + phosphate
+Accepted   G18UT-16306-MONOMER    Fe3+                     ATP       
+           abc-type fe3+-hydroxamate transport system,periplasmic component
+           ATP + Fe3+[extracellular space] + H2O  ->  ADP + Fe3+[cytosol] + phosphate
+Accepted   G18UT-16301-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-16301-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-16301-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-16301-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-16299-MONOMER    ethanolamine             SECONDARY 
+           ethanolamine permease
+           ethanolamine[extracellular space] + H+[extracellular space]  ->  ethanolamine[cytosol] + H+[cytosol]
+Accepted   G18UT-16283-MONOMER    L-histidine              CHANNEL   
+           osmosensitive k+ channel histidine kinase kdpd
+           L-histidine[extracellular space]  ->  L-histidine[cytosol]
+Accepted   G18UT-16140-MONOMER    an amino acid            UNKNOWN   
+           putative amino acid transporter
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G18UT-16124-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter pnux
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Accepted   G18UT-16059-MONOMER    N-acetyl-alpha-D-glucosamine PTS       
+           pts system, n-acetylglucosamine-specific iia component
+           a [PTS enzyme I]-Npi-phospho-L-histidine + N-acetyl-alpha-D-glucosamine[extracellular space]  ->  N-acetyl-alpha-D-glucosamine 6-phosphate[cytosol] + a [PTS enzyme I]-L-histidine
+Accepted   G18UT-15862-MONOMER    a sulfonate              ATP       
+           alkanesulfonates abc transporter atp-binding protein or sulfonate abc transporter, atp-binding subunit ssub
+           ATP + a sulfonate[extracellular space] + H2O  ->  ADP + a sulfonate[cytosol] + phosphate
+Accepted   G18UT-15862-MONOMER    an alkylsulfonate        ATP       
+           alkanesulfonates abc transporter atp-binding protein or sulfonate abc transporter, atp-binding subunit ssub
+           ATP + an alkylsulfonate[extracellular space] + H2O  ->  ADP + an alkylsulfonate[cytosol] + phosphate
+Accepted   G18UT-15861-MONOMER    an alkylsulfonate        SECONDARY 
+           alkanesulfonates transport system permease protein
+           an alkylsulfonate[extracellular space] + H+[extracellular space]  ->  an alkylsulfonate[cytosol] + H+[cytosol]
+Accepted   G18UT-15699-MONOMER    allantoin                SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           allantoin[extracellular space] + H+[extracellular space]  ->  allantoin[cytosol] + H+[cytosol]
+Accepted   G18UT-15699-MONOMER    thiamine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Accepted   G18UT-15699-MONOMER    uracil                   SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           uracil[extracellular space] + H+[extracellular space]  ->  uracil[cytosol] + H+[cytosol]
+Accepted   G18UT-15699-MONOMER    a purine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           a purine[extracellular space] + H+[extracellular space]  ->  a purine[cytosol] + H+[cytosol]
+Accepted   G18UT-15607-MONOMER    glycine betaine          UNKNOWN   
+           l-proline or glycine betaine transporter prop
+           glycine betaine[extracellular space]  <-->  glycine betaine[cytosol]
+Accepted   G18UT-15601-MONOMER    sulfate                  SECONDARY 
+           sulfate permease
+           sulfate[extracellular space] + H+[extracellular space]  ->  sulfate[cytosol] + H+[cytosol]
+Accepted   G18UT-15496-MONOMER    an amino acid            SECONDARY 
+           amino acid or metabolite permease
+           an amino acid[extracellular space] + H+[extracellular space]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G18UT-15489-MONOMER    Co2+                     ATP       
+           atpase component cbio of energizing module of cobalt ecf transporter
+           ATP + Co2+[extracellular space] + H2O  ->  ADP + Co2+[cytosol] + phosphate
+Accepted   G18UT-15488-MONOMER    Co2+                     UNKNOWN   
+           transmembrane component cbiq of energizing module of cobalt ecf transporter
+           Co2+[extracellular space]  <-->  Co2+[cytosol]
+Accepted   G18UT-15487-MONOMER    Co2+                     UNKNOWN   
+           additional substrate-specific component cbin of cobalt ecf transporter
+           Co2+[extracellular space]  <-->  Co2+[cytosol]
+Accepted   G18UT-15486-MONOMER    Co2+                     UNKNOWN   
+           substrate-specific component cbim of cobalt ecf transporter
+           Co2+[extracellular space]  <-->  Co2+[cytosol]
+Accepted   G18UT-15382-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter
+           a sugar[extracellular space]  ->  a sugar[cytosol]
+Accepted   G18UT-15377-MONOMER    Ca2+                     SECONDARY 
+           calcium or proton antiporter
+           Ca2+[extracellular space] + H+[cytosol]  ->  Ca2+[cytosol] + H+[extracellular space]
+Accepted   G18UT-15327-MONOMER    an amino acid            UNKNOWN   
+           amino acid permease-associated region
+           an amino acid[extracellular space]  ->  an amino acid[cytosol]
+Accepted   G18UT-15250-MONOMER    Zn2+                     ATP       
+           zinc abc transporter, inner membrane permease protein znub
+           ATP + Zn2+[extracellular space] + H2O  ->  ADP + Zn2+[cytosol] + phosphate
+Accepted   G18UT-15127-MONOMER    glycine betaine          UNKNOWN   
+           l-proline or glycine betaine transporter prop
+           glycine betaine[extracellular space]  <-->  glycine betaine[cytosol]
+Unreviewed G18UT-22054-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-21442-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-21393-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-21120-MONOMER    xanthine                 SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-20835-MONOMER    Na+                      SECONDARY 
+           na(+) or h(+) antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-20833-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter nhad type
+           Several possible reactions available for import
+Unreviewed G18UT-20715-MONOMER    K+                       UNKNOWN   
+           trk system potassium uptake protein trka
+           Several possible reactions available for import
+Unreviewed G18UT-20714-MONOMER    K+                       UNKNOWN   
+           trk system potassium uptake protein trka
+           Several possible reactions available for import
+Unreviewed G18UT-20710-MONOMER    K+                       CHANNEL   
+           osmosensitive k+ channel histidine kinase kdpd
+           Several possible reactions available for import
+Unreviewed G18UT-20436-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-20363-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-20066-MONOMER    Na+                      SECONDARY 
+           putative na+ or h+ antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-20065-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-19298-MONOMER    xanthine                 SECONDARY 
+           xanthine or uracil or thiamine or ascorbate permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-19059-MONOMER    K+                       CHANNEL   
+           osmosensitive k+ channel histidine kinase kdpd
+           Several possible reactions available for import
+Unreviewed G18UT-18727-MONOMER    K+                       CHANNEL   
+           potassium channel protein
+           Several possible reactions available for import
+Unreviewed G18UT-18459-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter nhaa type
+           Several possible reactions available for import
+Unreviewed G18UT-18147-MONOMER    Na+                      SECONDARY 
+           na(+) or h(+) antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-17544-MONOMER    K+                       CHANNEL   
+           potassium efflux system kefa protein or small-conductance mechanosensitive channel
+           Several possible reactions available for import
+Unreviewed G18UT-17283-MONOMER    K+                       CHANNEL   
+           potassium voltage-gated channel subfamily kqt; possible potassium channel, vic family
+           Several possible reactions available for import
+Unreviewed G18UT-17053-MONOMER    Fe2+                     UNKNOWN   
+           ferrous iron transport peroxidase efeb
+           Several possible reactions available for import
+Unreviewed G18UT-16823-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-16609-MONOMER    H+                       SECONDARY 
+           drug or proton antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-16412-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-16301-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-16283-MONOMER    K+                       CHANNEL   
+           osmosensitive k+ channel histidine kinase kdpd
+           Several possible reactions available for import
+Unreviewed G18UT-16217-MONOMER    K+                       CHANNEL   
+           potassium voltage-gated channel subfamily kqt; possible potassium channel, vic family
+           Several possible reactions available for import
+Unreviewed G18UT-15997-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter
+           Several possible reactions available for import
+Unreviewed G18UT-15699-MONOMER    cytosine                 SECONDARY 
+           cytosine or purine or uracil or thiamine or allantoin permease family protein
+           Several possible reactions available for import
+Unreviewed G18UT-15585-MONOMER    Na+                      SECONDARY 
+           na+ or h+ antiporter
+           Several possible reactions available for import
+
+
+Unreviewed G18UT-15110-MONOMER  (no substrate identified)
+Unreviewed G18UT-15141-MONOMER  (no substrate identified)
+Unreviewed G18UT-15160-MONOMER  (no substrate identified)
+Unreviewed G18UT-15161-MONOMER  (no substrate identified)
+Unreviewed G18UT-15177-MONOMER  (no substrate identified)
+Unreviewed G18UT-15180-MONOMER  (no substrate identified)
+Unreviewed G18UT-15226-MONOMER  (no substrate identified)
+Unreviewed G18UT-15246-MONOMER  (no substrate identified)
+Unreviewed G18UT-15247-MONOMER  (no substrate identified)
+Unreviewed G18UT-15248-MONOMER  (no substrate identified)
+Unreviewed G18UT-15249-MONOMER  (no substrate identified)
+Unreviewed G18UT-15256-MONOMER  (no substrate identified)
+Unreviewed G18UT-15259-MONOMER  (no substrate identified)
+Unreviewed G18UT-15272-MONOMER  (no substrate identified)
+Unreviewed G18UT-15318-MONOMER  (no substrate identified)
+Unreviewed G18UT-15320-MONOMER  (no substrate identified)
+Unreviewed G18UT-15410-MONOMER  (no substrate identified)
+Unreviewed G18UT-15547-MONOMER  (no substrate identified)
+Unreviewed G18UT-15572-MONOMER  (no substrate identified)
+Unreviewed G18UT-15594-MONOMER  (no substrate identified)
+Unreviewed G18UT-15595-MONOMER  (no substrate identified)
+Unreviewed G18UT-15652-MONOMER  (no substrate identified)
+Unreviewed G18UT-15653-MONOMER  (no substrate identified)
+Unreviewed G18UT-15704-MONOMER  (no substrate identified)
+Unreviewed G18UT-15705-MONOMER  (no substrate identified)
+Unreviewed G18UT-15755-MONOMER  (no substrate identified)
+Unreviewed G18UT-15776-MONOMER  (no substrate identified)
+Unreviewed G18UT-15783-MONOMER  (no substrate identified)
+Unreviewed G18UT-15867-MONOMER  (no substrate identified)
+Unreviewed G18UT-15872-MONOMER  (no substrate identified)
+Unreviewed G18UT-15892-MONOMER  (no substrate identified)
+Unreviewed G18UT-15893-MONOMER  (no substrate identified)
+Unreviewed G18UT-15956-MONOMER  (no substrate identified)
+Unreviewed G18UT-15969-MONOMER  (no substrate identified)
+Unreviewed G18UT-15986-MONOMER  (no substrate identified)
+Unreviewed G18UT-15998-MONOMER  (no substrate identified)
+Unreviewed G18UT-16028-MONOMER  (no substrate identified)
+Unreviewed G18UT-16060-MONOMER  (no substrate identified)
+Unreviewed G18UT-16096-MONOMER  (no substrate identified)
+Unreviewed G18UT-16133-MONOMER  (no substrate identified)
+Unreviewed G18UT-16134-MONOMER  (no substrate identified)
+Unreviewed G18UT-16200-MONOMER  (no substrate identified)
+Unreviewed G18UT-16201-MONOMER  (no substrate identified)
+Unreviewed G18UT-16257-MONOMER  (no substrate identified)
+Unreviewed G18UT-16274-MONOMER  (no substrate identified)
+Unreviewed G18UT-16401-MONOMER  (no substrate identified)
+Unreviewed G18UT-16418-MONOMER  (no substrate identified)
+Unreviewed G18UT-16428-MONOMER  (no substrate identified)
+Unreviewed G18UT-16429-MONOMER  (no substrate identified)
+Unreviewed G18UT-16458-MONOMER  (no substrate identified)
+Unreviewed G18UT-16461-MONOMER  (no substrate identified)
+Unreviewed G18UT-16463-MONOMER  (no substrate identified)
+Unreviewed G18UT-16466-MONOMER  (no substrate identified)
+Unreviewed G18UT-16531-MONOMER  (no substrate identified)
+Unreviewed G18UT-16537-MONOMER  (no substrate identified)
+Unreviewed G18UT-16542-MONOMER  (no substrate identified)
+Unreviewed G18UT-16556-MONOMER  (no substrate identified)
+Unreviewed G18UT-16582-MONOMER  (no substrate identified)
+Unreviewed G18UT-16598-MONOMER  (no substrate identified)
+Unreviewed G18UT-16654-MONOMER  (no substrate identified)
+Unreviewed G18UT-16655-MONOMER  (no substrate identified)
+Unreviewed G18UT-16688-MONOMER  (no substrate identified)
+Unreviewed G18UT-16692-MONOMER  (no substrate identified)
+Unreviewed G18UT-16796-MONOMER  (no substrate identified)
+Unreviewed G18UT-16811-MONOMER  (no substrate identified)
+Unreviewed G18UT-16812-MONOMER  (no substrate identified)
+Unreviewed G18UT-16852-MONOMER  (no substrate identified)
+Unreviewed G18UT-16918-MONOMER  (no substrate identified)
+Unreviewed G18UT-17034-MONOMER  (no substrate identified)
+Unreviewed G18UT-17039-MONOMER  (no substrate identified)
+Unreviewed G18UT-17040-MONOMER  (no substrate identified)
+Unreviewed G18UT-17052-MONOMER  (no substrate identified)
+Unreviewed G18UT-17099-MONOMER  (no substrate identified)
+Unreviewed G18UT-17100-MONOMER  (no substrate identified)
+Unreviewed G18UT-17104-MONOMER  (no substrate identified)
+Unreviewed G18UT-17330-MONOMER  (no substrate identified)
+Unreviewed G18UT-17335-MONOMER  (no substrate identified)
+Unreviewed G18UT-17388-MONOMER  (no substrate identified)
+Unreviewed G18UT-17390-MONOMER  (no substrate identified)
+Unreviewed G18UT-17419-MONOMER  (no substrate identified)
+Unreviewed G18UT-17425-MONOMER  (no substrate identified)
+Unreviewed G18UT-17457-MONOMER  (no substrate identified)
+Unreviewed G18UT-17537-MONOMER  (no substrate identified)
+Unreviewed G18UT-17562-MONOMER  (no substrate identified)
+Unreviewed G18UT-17566-MONOMER  (no substrate identified)
+Unreviewed G18UT-17618-MONOMER  (no substrate identified)
+Unreviewed G18UT-17627-MONOMER  (no substrate identified)
+Unreviewed G18UT-17637-MONOMER  (no substrate identified)
+Unreviewed G18UT-17651-MONOMER  (no substrate identified)
+Unreviewed G18UT-17657-MONOMER  (no substrate identified)
+Unreviewed G18UT-17660-MONOMER  (no substrate identified)
+Unreviewed G18UT-17667-MONOMER  (no substrate identified)
+Unreviewed G18UT-17692-MONOMER  (no substrate identified)
+Unreviewed G18UT-17693-MONOMER  (no substrate identified)
+Unreviewed G18UT-17744-MONOMER  (no substrate identified)
+Unreviewed G18UT-17752-MONOMER  (no substrate identified)
+Unreviewed G18UT-17753-MONOMER  (no substrate identified)
+Unreviewed G18UT-17768-MONOMER  (no substrate identified)
+Unreviewed G18UT-17774-MONOMER  (no substrate identified)
+Unreviewed G18UT-17775-MONOMER  (no substrate identified)
+Unreviewed G18UT-17776-MONOMER  (no substrate identified)
+Unreviewed G18UT-17798-MONOMER  (no substrate identified)
+Unreviewed G18UT-17804-MONOMER  (no substrate identified)
+Unreviewed G18UT-17834-MONOMER  (no substrate identified)
+Unreviewed G18UT-17838-MONOMER  (no substrate identified)
+Unreviewed G18UT-17846-MONOMER  (no substrate identified)
+Unreviewed G18UT-17847-MONOMER  (no substrate identified)
+Unreviewed G18UT-17881-MONOMER  (no substrate identified)
+Unreviewed G18UT-18007-MONOMER  (no substrate identified)
+Unreviewed G18UT-18008-MONOMER  (no substrate identified)
+Unreviewed G18UT-18044-MONOMER  (no substrate identified)
+Unreviewed G18UT-18045-MONOMER  (no substrate identified)
+Unreviewed G18UT-18047-MONOMER  (no substrate identified)
+Unreviewed G18UT-18080-MONOMER  (no substrate identified)
+Unreviewed G18UT-18114-MONOMER  (no substrate identified)
+Unreviewed G18UT-18116-MONOMER  (no substrate identified)
+Unreviewed G18UT-18152-MONOMER  (no substrate identified)
+Unreviewed G18UT-18169-MONOMER  (no substrate identified)
+Unreviewed G18UT-18172-MONOMER  (no substrate identified)
+Unreviewed G18UT-18178-MONOMER  (no substrate identified)
+Unreviewed G18UT-18200-MONOMER  (no substrate identified)
+Unreviewed G18UT-18250-MONOMER  (no substrate identified)
+Unreviewed G18UT-18311-MONOMER  (no substrate identified)
+Unreviewed G18UT-18323-MONOMER  (no substrate identified)
+Unreviewed G18UT-18324-MONOMER  (no substrate identified)
+Unreviewed G18UT-18343-MONOMER  (no substrate identified)
+Unreviewed G18UT-18370-MONOMER  (no substrate identified)
+Unreviewed G18UT-18392-MONOMER  (no substrate identified)
+Unreviewed G18UT-18393-MONOMER  (no substrate identified)
+Unreviewed G18UT-18409-MONOMER  (no substrate identified)
+Unreviewed G18UT-18432-MONOMER  (no substrate identified)
+Unreviewed G18UT-18436-MONOMER  (no substrate identified)
+Unreviewed G18UT-18438-MONOMER  (no substrate identified)
+Unreviewed G18UT-18524-MONOMER  (no substrate identified)
+Unreviewed G18UT-18525-MONOMER  (no substrate identified)
+Unreviewed G18UT-18660-MONOMER  (no substrate identified)
+Unreviewed G18UT-18661-MONOMER  (no substrate identified)
+Unreviewed G18UT-18709-MONOMER  (no substrate identified)
+Unreviewed G18UT-18723-MONOMER  (no substrate identified)
+Unreviewed G18UT-18724-MONOMER  (no substrate identified)
+Unreviewed G18UT-18845-MONOMER  (no substrate identified)
+Unreviewed G18UT-18855-MONOMER  (no substrate identified)
+Unreviewed G18UT-18857-MONOMER  (no substrate identified)
+Unreviewed G18UT-18909-MONOMER  (no substrate identified)
+Unreviewed G18UT-18911-MONOMER  (no substrate identified)
+Unreviewed G18UT-18938-MONOMER  (no substrate identified)
+Unreviewed G18UT-18951-MONOMER  (no substrate identified)
+Unreviewed G18UT-18967-MONOMER  (no substrate identified)
+Unreviewed G18UT-19026-MONOMER  (no substrate identified)
+Unreviewed G18UT-19052-MONOMER  (no substrate identified)
+Unreviewed G18UT-19081-MONOMER  (no substrate identified)
+Unreviewed G18UT-19082-MONOMER  (no substrate identified)
+Unreviewed G18UT-19086-MONOMER  (no substrate identified)
+Unreviewed G18UT-19208-MONOMER  (no substrate identified)
+Unreviewed G18UT-19220-MONOMER  (no substrate identified)
+Unreviewed G18UT-19301-MONOMER  (no substrate identified)
+Unreviewed G18UT-19369-MONOMER  (no substrate identified)
+Unreviewed G18UT-19370-MONOMER  (no substrate identified)
+Unreviewed G18UT-19390-MONOMER  (no substrate identified)
+Unreviewed G18UT-19391-MONOMER  (no substrate identified)
+Unreviewed G18UT-19467-MONOMER  (no substrate identified)
+Unreviewed G18UT-19484-MONOMER  (no substrate identified)
+Unreviewed G18UT-19564-MONOMER  (no substrate identified)
+Unreviewed G18UT-19597-MONOMER  (no substrate identified)
+Unreviewed G18UT-19681-MONOMER  (no substrate identified)
+Unreviewed G18UT-19717-MONOMER  (no substrate identified)
+Unreviewed G18UT-19749-MONOMER  (no substrate identified)
+Unreviewed G18UT-19762-MONOMER  (no substrate identified)
+Unreviewed G18UT-19772-MONOMER  (no substrate identified)
+Unreviewed G18UT-19773-MONOMER  (no substrate identified)
+Unreviewed G18UT-19846-MONOMER  (no substrate identified)
+Unreviewed G18UT-19856-MONOMER  (no substrate identified)
+Unreviewed G18UT-19912-MONOMER  (no substrate identified)
+Unreviewed G18UT-19957-MONOMER  (no substrate identified)
+Unreviewed G18UT-19974-MONOMER  (no substrate identified)
+Unreviewed G18UT-19975-MONOMER  (no substrate identified)
+Unreviewed G18UT-19976-MONOMER  (no substrate identified)
+Unreviewed G18UT-20127-MONOMER  (no substrate identified)
+Unreviewed G18UT-20189-MONOMER  (no substrate identified)
+Unreviewed G18UT-20190-MONOMER  (no substrate identified)
+Unreviewed G18UT-20199-MONOMER  (no substrate identified)
+Unreviewed G18UT-20200-MONOMER  (no substrate identified)
+Unreviewed G18UT-20201-MONOMER  (no substrate identified)
+Unreviewed G18UT-20202-MONOMER  (no substrate identified)
+Unreviewed G18UT-20266-MONOMER  (no substrate identified)
+Unreviewed G18UT-20267-MONOMER  (no substrate identified)
+Unreviewed G18UT-20295-MONOMER  (no substrate identified)
+Unreviewed G18UT-20296-MONOMER  (no substrate identified)
+Unreviewed G18UT-20309-MONOMER  (no substrate identified)
+Unreviewed G18UT-20366-MONOMER  (no substrate identified)
+Unreviewed G18UT-20476-MONOMER  (no substrate identified)
+Unreviewed G18UT-20504-MONOMER  (no substrate identified)
+Unreviewed G18UT-20530-MONOMER  (no substrate identified)
+Unreviewed G18UT-20531-MONOMER  (no substrate identified)
+Unreviewed G18UT-20532-MONOMER  (no substrate identified)
+Unreviewed G18UT-20533-MONOMER  (no substrate identified)
+Unreviewed G18UT-20534-MONOMER  (no substrate identified)
+Unreviewed G18UT-20611-MONOMER  (no substrate identified)
+Unreviewed G18UT-20653-MONOMER  (no substrate identified)
+Unreviewed G18UT-20662-MONOMER  (no substrate identified)
+Unreviewed G18UT-20671-MONOMER  (no substrate identified)
+Unreviewed G18UT-20681-MONOMER  (no substrate identified)
+Unreviewed G18UT-20709-MONOMER  (no substrate identified)
+Unreviewed G18UT-20782-MONOMER  (no substrate identified)
+Unreviewed G18UT-20837-MONOMER  (no substrate identified)
+Unreviewed G18UT-20857-MONOMER  (no substrate identified)
+Unreviewed G18UT-20932-MONOMER  (no substrate identified)
+Unreviewed G18UT-20972-MONOMER  (no substrate identified)
+Unreviewed G18UT-20985-MONOMER  (no substrate identified)
+Unreviewed G18UT-21024-MONOMER  (no substrate identified)
+Unreviewed G18UT-21071-MONOMER  (no substrate identified)
+Unreviewed G18UT-21072-MONOMER  (no substrate identified)
+Unreviewed G18UT-21154-MONOMER  (no substrate identified)
+Unreviewed G18UT-21188-MONOMER  (no substrate identified)
+Unreviewed G18UT-21259-MONOMER  (no substrate identified)
+Unreviewed G18UT-21261-MONOMER  (no substrate identified)
+Unreviewed G18UT-21272-MONOMER  (no substrate identified)
+Unreviewed G18UT-21279-MONOMER  (no substrate identified)
+Unreviewed G18UT-21300-MONOMER  (no substrate identified)
+Unreviewed G18UT-21301-MONOMER  (no substrate identified)
+Unreviewed G18UT-21314-MONOMER  (no substrate identified)
+Unreviewed G18UT-21317-MONOMER  (no substrate identified)
+Unreviewed G18UT-21376-MONOMER  (no substrate identified)
+Unreviewed G18UT-21398-MONOMER  (no substrate identified)
+Unreviewed G18UT-21430-MONOMER  (no substrate identified)
+Unreviewed G18UT-21433-MONOMER  (no substrate identified)
+Unreviewed G18UT-21437-MONOMER  (no substrate identified)
+Unreviewed G18UT-21480-MONOMER  (no substrate identified)
+Unreviewed G18UT-21485-MONOMER  (no substrate identified)
+Unreviewed G18UT-21489-MONOMER  (no substrate identified)
+Unreviewed G18UT-21532-MONOMER  (no substrate identified)
+Unreviewed G18UT-21567-MONOMER  (no substrate identified)
+Unreviewed G18UT-21590-MONOMER  (no substrate identified)
+Unreviewed G18UT-21611-MONOMER  (no substrate identified)
+Unreviewed G18UT-21632-MONOMER  (no substrate identified)
+Unreviewed G18UT-21633-MONOMER  (no substrate identified)
+Unreviewed G18UT-21646-MONOMER  (no substrate identified)
+Unreviewed G18UT-21792-MONOMER  (no substrate identified)
+Unreviewed G18UT-21793-MONOMER  (no substrate identified)
+Unreviewed G18UT-21836-MONOMER  (no substrate identified)
+Unreviewed G18UT-21885-MONOMER  (no substrate identified)
+Unreviewed G18UT-21886-MONOMER  (no substrate identified)
+Unreviewed G18UT-21930-MONOMER  (no substrate identified)
+Unreviewed G18UT-21957-MONOMER  (no substrate identified)
+Unreviewed G18UT-21985-MONOMER  (no substrate identified)
+Unreviewed G18UT-22035-MONOMER  (no substrate identified)
+Unreviewed G18UT-22088-MONOMER  (no substrate identified)
+Unreviewed G18UT-22089-MONOMER  (no substrate identified)
+Unreviewed G18UT-22108-MONOMER  (no substrate identified)
+Unreviewed G18UT-22135-MONOMER  (no substrate identified)
+Unreviewed G18UT-22153-MONOMER  (no substrate identified)
+Unreviewed G18UT-22179-MONOMER  (no substrate identified)
+Unreviewed G18UT-22182-MONOMER  (no substrate identified)
+Unreviewed G18UT-22183-MONOMER  (no substrate identified)
+Unreviewed G18UT-22184-MONOMER  (no substrate identified)
+Unreviewed G18UT-22222-MONOMER  (no substrate identified)
+Unreviewed G18UT-22229-MONOMER  (no substrate identified)
+Unreviewed G18UT-22230-MONOMER  (no substrate identified)
+Unreviewed G18UT-22253-MONOMER  (no substrate identified)
+Unreviewed G18UT-22294-MONOMER  (no substrate identified)
+Unreviewed G18UT-22305-MONOMER  (no substrate identified)
+Unreviewed G18UT-22307-MONOMER  (no substrate identified)
+Unreviewed G18UT-22326-MONOMER  (no substrate identified)
+Unreviewed G18UT-22547-MONOMER  (no substrate identified)
+Unreviewed G18UT-22548-MONOMER  (no substrate identified)
+Unreviewed G18UT-22579-MONOMER  (no substrate identified)
